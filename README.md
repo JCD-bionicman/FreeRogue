@@ -7,5 +7,5 @@ A cross-platform roguelike game engine.
 * Well optimized in C++ (with eventual support for any .Net language)
 * Cross-platform with OpenGL (and maybe Vulkan later)
 * Prebuilt user tileset modding system
-* Helpful systems for things like window resizing and GUI interfaces
+* Helpful tools for things like window resizing and GUI interfaces
 * Integrated engine utilities like time management and ECS
